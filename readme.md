@@ -4,8 +4,7 @@
 
 ## Extra staff you need
 
-+----+------+
 |Item|number|
-+----+------+
+----|------
 |M2x25 screw|16|
 |M2 nut|16|
